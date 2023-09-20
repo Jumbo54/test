@@ -1,0 +1,87 @@
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.image1.jpg{
+    width: 20px;
+}
+
+.image2.jpg{
+    width: 20px;
+}
+
+.image3.jpg{
+    width: 20px;
+}
+
+#services {
+    padding: 20px;
+}
+
+#services h2 {
+    text-align: center;
+}
+
+#services div {
+    display: flex;
+    justify-content: center;
+}
+
+#services ul {
+    margin: 0;
+    padding: 0;
+}
+
+#services ul li {
+    list-style-type: none;
+}
+
+#team {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+#team h2 {
+    text-align: center;
+}
+
+#team div {
+    display: flex;
+    justify-content: center;
+}
+
+#team img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#team h4,
+#team p {
+    text-align: center;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
